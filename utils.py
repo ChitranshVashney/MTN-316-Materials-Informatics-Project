@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import Normalize
 import matplotlib.patches as patches
 import matplotlib.gridspec as gridspec
+import sklearn as sklearn
 
 from sklearn.preprocessing import StandardScaler, Normalizer
 from sklearn.linear_model import LinearRegression, LogisticRegression
